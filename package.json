@@ -1,0 +1,13 @@
+{
+  "creator": {
+    "version": "3.7.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "修了个仙",
+  "uuid": "a69326c7-cd14-4cc1-b3e7-5a31b009b8c2",
+  "version": "3.6.3",
+  "_sourceId": "68f6450d-deb6-4beb-899a-f61f5dcaf88d",
+  "_storeId": "6a806767efc17be5527f203c3b9df74b"
+}
